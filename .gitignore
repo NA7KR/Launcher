@@ -6,5 +6,5 @@
 src/output.gpt
 build/
 python.exe
-
+program_list.json
 logs
